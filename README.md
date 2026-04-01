@@ -1,5 +1,10 @@
 # Data Science Internship Tasks 🚀
 
+**Author:** Awais Ahmed Memon  
+**Email:** [awaisahmed93@gmail.com](mailto:awaisahmed93@gmail.com)  
+**Education:** Computer Science Student  
+**Skills:** Python | Data Analysis | Machine Learning | Jupyter Notebook | Data Visualization  
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -42,4 +47,9 @@ This repository contains my internship tasks for **Data Science**, including dat
 
 ---
 
+## Optional: Run Notebooks Interactively
+You can open and run these notebooks in the browser using **Binder** or **Google Colab**:
+
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](YOUR_BINDER_LINK_HERE)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 
