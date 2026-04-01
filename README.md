@@ -3,13 +3,20 @@
 **Author:** Awais Ahmed Memon  
 **Email:** [awaisahmed93@gmail.com](mailto:awaisahmed93@gmail.com)  
 **Education:** Computer Science Student  
-**Skills:** Python | Data Analysis | Machine Learning | Jupyter Notebook | Data Visualization  
+**Skills:**  
+![Python](https://img.shields.io/badge/Python-3.11-blue) 
+![Pandas](https://img.shields.io/badge/Pandas-dataframe-orange)
+![NumPy](https://img.shields.io/badge/NumPy-array-brightgreen)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-visualization-yellow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-purple)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-deep_learning-orange)
+![SQL](https://img.shields.io/badge/SQL-database-blue)
+![Git](https://img.shields.io/badge/Git-version_control-lightgrey)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-This repository contains my internship tasks for **Data Science**, including data visualization, predictive modeling, and insights extraction using Python and Jupyter Notebooks.
+This repository contains my internship tasks for **Data Science**, including **data visualization, predictive modeling, and machine learning applications** using Python and other tools.
 
 ---
 
