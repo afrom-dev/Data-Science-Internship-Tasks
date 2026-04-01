@@ -44,3 +44,6 @@ This repository contains my internship tasks for **Data Science**, including dat
 
 ## Optional: Run Notebooks Interactively
 You can open and run these notebooks in the browser using **Binder** or **Google Colab**:
+
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](YOUR_BINDER_LINK_HERE)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
