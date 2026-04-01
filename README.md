@@ -10,7 +10,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-red)
 ![Seaborn](https://img.shields.io/badge/Seaborn-visualization-yellow)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-purple)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-deep_learning-orange)
 ![SQL](https://img.shields.io/badge/SQL-database-blue)
 ![Git](https://img.shields.io/badge/Git-version_control-lightgrey)
 
@@ -54,9 +53,5 @@ This repository contains my internship tasks for **Data Science**, including **d
 
 ---
 
-## Optional: Run Notebooks Interactively
-You can open and run these notebooks in the browser using **Binder** or **Google Colab**:
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](YOUR_BINDER_LINK_HERE)  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 
