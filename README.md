@@ -10,6 +10,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-red)
 ![Seaborn](https://img.shields.io/badge/Seaborn-visualization-yellow)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-purple)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-deep_learning-orange)
 ![SQL](https://img.shields.io/badge/SQL-database-blue)
 ![Git](https://img.shields.io/badge/Git-version_control-lightgrey)
 
@@ -40,7 +41,7 @@ This repository contains my internship tasks for **Data Science**, including **d
 **Approach:** Preprocessed data and trained a Random Forest model.  
 **Results & Insights:** Accuracy: 85%, feature importance highlights credit history as key.  
 
-**Notebook:** [Open Task 2](./Task2_Credit_Risk_Prediction.ipynb)  
+**Notebook:** [Open Task 2](./Credit_Risk_Prediction.ipynb)  
 
 ---
 
@@ -49,9 +50,7 @@ This repository contains my internship tasks for **Data Science**, including **d
 **Approach:** Used logistic regression and decision tree models.  
 **Results & Insights:** Decision tree had better recall on claim approvals.  
 
-**Notebook:** [Open Task 3](./Task3_Insurance_Claim_Prediction.ipynb)  
+**Notebook:** [Open Task 3](./Task4_Insurance_Claim_Prediction.ipynb)  
 
 ---
-
-
 
