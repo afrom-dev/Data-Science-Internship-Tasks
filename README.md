@@ -10,7 +10,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-red)
 ![Seaborn](https://img.shields.io/badge/Seaborn-visualization-yellow)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-purple)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-deep_learning-orange)
 ![SQL](https://img.shields.io/badge/SQL-database-blue)
 ![Git](https://img.shields.io/badge/Git-version_control-lightgrey)
 
